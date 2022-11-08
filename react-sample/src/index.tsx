@@ -10,7 +10,8 @@ import './index.css'
 // import Counter from './components/useStateSample'
 // import Counter from './components/useReducerSample'
 // import Parent from './components/UseCallbackSample'
-import UseMemoSample from './components/UseMemoSample'
+// import UseMemoSample from './components/UseMemoSample'
+import Clock from './components/UseEffectSample'
 import reportWebVitals from './reportWebVitals'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
@@ -24,7 +25,8 @@ root.render(
     {/* <Page /> */}
     {/* <Counter initialValue={0} /> */}
     {/* <Parent /> */}
-    <UseMemoSample />
+    {/* <UseMemoSample /> */}
+    <Clock />
   </React.StrictMode>
 )
 
