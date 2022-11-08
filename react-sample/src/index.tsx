@@ -7,7 +7,8 @@ import './index.css'
 // import Message from './components/Message'
 // import Parent from './components/ContainerSample'
 // import Page from './components/ContextSample'
-import Counter from './components/useStateSample'
+// import Counter from './components/useStateSample'
+import Counter from './components/useReducerSample'
 import reportWebVitals from './reportWebVitals'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
