@@ -9,7 +9,8 @@ import './index.css'
 // import Page from './components/ContextSample'
 // import Counter from './components/useStateSample'
 // import Counter from './components/useReducerSample'
-import Parent from './components/UseCallbackSample'
+// import Parent from './components/UseCallbackSample'
+import UseMemoSample from './components/UseMemoSample'
 import reportWebVitals from './reportWebVitals'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
@@ -22,7 +23,8 @@ root.render(
     {/* <Parent /> */}
     {/* <Page /> */}
     {/* <Counter initialValue={0} /> */}
-    <Parent />
+    {/* <Parent /> */}
+    <UseMemoSample />
   </React.StrictMode>
 )
 
