@@ -11,7 +11,8 @@ import './index.css'
 // import Counter from './components/useReducerSample'
 // import Parent from './components/UseCallbackSample'
 // import UseMemoSample from './components/UseMemoSample'
-import Clock from './components/UseEffectSample'
+// import Clock from './components/UseEffectSample'
+import Clock from './components/UseLayoutEffectSample'
 import reportWebVitals from './reportWebVitals'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
