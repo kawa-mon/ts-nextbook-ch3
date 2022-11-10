@@ -15,7 +15,8 @@ import './index.css'
 // import Clock from './components/UseLayoutEffectSample'
 // import Parent from './components/UseContextSample'
 // import ImageUploader from './components/UseRefSample'
-import Parent from './components/UseImperativeHandleSample'
+// import Parent from './components/UseImperativeHandleSample'
+import Input from './components/UseCustomHookSample'
 import reportWebVitals from './reportWebVitals'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
@@ -33,7 +34,8 @@ root.render(
     {/* <Clock /> */}
     {/* <Parent /> */}
     {/* <ImageUploader /> */}
-    <Parent />
+    {/* <Parent /> */}
+    <Input />
   </React.StrictMode>
 )
 
