@@ -1,4 +1,3 @@
-// 型を利用するためにインポート
 import { GetStaticPaths, GetStaticProps, NextPage } from 'next'
 import Head from 'next/head'
 import { useRouter } from 'next/router'

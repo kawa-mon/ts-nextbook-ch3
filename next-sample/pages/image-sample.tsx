@@ -1,6 +1,5 @@
 import { NextPage } from 'next'
 import Image from 'next/image'
-// 画像ファイルをインポートする
 import BibleImage from '../public/images/bible.jpeg'
 
 const ImageSample: NextPage<void> = (props) => {
