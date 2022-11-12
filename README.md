@@ -1,6 +1,6 @@
-# ts-nextbook-ch3
+# ts-nextbook-ch3-4
 
-TypeScript と React/Next.js でつくる 実践 Web アプリケーション開発-3 章
+TypeScript と React/Next.js でつくる 実践 Web アプリケーション開発 3, 4 章
 
 # Version
 
